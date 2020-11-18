@@ -1,11 +1,11 @@
 # Team SBADE - Habit Tracker Productivity App
 A minimalist productivity app based on Loop Habit Tracker (See: https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_US&gl=US) .
+**Team:** Alicia M Kim, David Lee, Eric Lyder, Bryan Wang, Scrum Leader Sergey Gridin
 
+
+## Table Of Contents
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
 <!-- code_chunk_output -->
-
-- [Team SBADE - Habit Tracker Productivity App](#team-sbade-habit-tracker-productivity-app)
   - [**Description**](#description)
   - [**Technologies**](#technologies)
   - [**Feature List: MVP**](#feature-list-mvp)
