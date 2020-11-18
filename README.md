@@ -1,6 +1,49 @@
 # Team SBADE - Habit Tracker Productivity App
 A minimalist productivity app based on Loop Habit Tracker (See: https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en_US&gl=US) .
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Team SBADE - Habit Tracker Productivity App](#team-sbade-habit-tracker-productivity-app)
+  - [**Description**](#description)
+  - [**Technologies**](#technologies)
+  - [**Feature List: MVP**](#feature-list-mvp)
+    - [User Account](#user-account)
+    - [Habit Tracker](#habit-tracker)
+    - [Results display](#results-display)
+  - [**Feature List: Stretch Goals**](#feature-list-stretch-goals)
+    - [* Extending Habit-tracker:](#extending-habit-tracker)
+    - [* Extending Results Display:](#extending-results-display)
+    - [Full Feature: Progress Reward System](#full-new-feature-progress-reward-system)
+    - [(Low-Priority) Miscellaneous](#low-priority-miscellaneious)
+  - [**Models & Schema**](#models-schema)
+  - [**Routes & Endpoints**](#routes-endpoints)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+  - [**Wireframes & Templates**](#wireframes-templates)
+    - [General Theming](#general-theming)
+    - [Responsive Web Design (RWD) Considerations...](#responsive-web-design-rwd-considerations)
+    - [Habit tracker page](#habit-tracker-page)
+    - [Results display page(s)](#results-display-pages)
+    - [User profile (popup options only?)](#user-profile-popup-options-only)
+    - [Signup (splash)/signin/logout](#signup-splashsigninlogout)
+    - [Add, delete, edit, etc. forms (popups?)](#add-delete-edit-etc-forms-popups)
+  - [**User Story**](#user-story)
+    - [Signup/signin/signout](#signupsigninsignout)
+    - [Navigation](#navigation)
+    - [Creating a habit](#creating-a-habit)
+    - [Editing/deleting a habit](#editingdeleting-a-habit)
+    - [Examining results displays](#examining-results-displays)
+    - [Navigator user settings](#navigator-user-settings)
+    - [* Browsing and 'buying' rewards](#browsing-and-buying-rewards)
+  - [**Seeder Data**](#seeder-data)
+    - [Users](#users)
+    - [User's Habits](#users-habits)
+    - [User's Habit Histories](#users-habit-histories)
+    - [User's Rewards/Points](#users-rewardspoints)
+
+<!-- /code_chunk_output -->
 
 ## Description
 Purpose, market, functionality
