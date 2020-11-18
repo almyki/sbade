@@ -22,40 +22,40 @@ Purpose, market, functionality
 
 ## Feature List: MVP
 ### **User Account**
-    - Signup/login/logout
-    - User-specific dashboard
-    - Store habit history
-    
+- Signup/login/logout
+- User-specific dashboard
+- Store habit history
+
 ### **Habit Tracker**
-    - User can create habits with a title
-    - Habits are displayed in an interactive list, with check-off buttons for each previous day per habit.
-    - Habits can be edited or deleted.
+- User can create habits with a title
+- Habits are displayed in an interactive list, with check-off buttons for each previous day per habit.
+- Habits can be edited or deleted.
 
 ### **Results display**
-    - The user can click a habit to see a visual history of the habit.
-    - The top shows a few statistics like total number and success rate
-    - At least one visual display of the data:
-        - An icon-indicator that shows overall success.
-          *NOTE* Loop has a wheel that fills, but we discussed that there maybe be alternatives that
-          show 'milestone' progress, so users can feel rewarded for various levels of progress.
-          Ex. the color or size may change at 25%, 50%, 70%, 100%, or maybe it gets 'shinier' etc.
-          The idea of a bar, gauge, or loop 'filling up' with progress may still be compatible with this.
-        - Line graph (overall trends??)
-        - Bar graph/side bar graph (absolute numbers)
-        - Calendar display (color in successful days)
-        - Frequency-dot-chart (??)
+- The user can click a habit to see a visual history of the habit.
+- The top shows a few statistics like total number and success rate
+- At least one visual display of the data:
+    - An icon-indicator that shows overall success.
+      *NOTE* Loop has a wheel that fills, but we discussed that there maybe be alternatives that
+      show 'milestone' progress, so users can feel rewarded for various levels of progress.
+      Ex. the color or size may change at 25%, 50%, 70%, 100%, or maybe it gets 'shinier' etc.
+      The idea of a bar, gauge, or loop 'filling up' with progress may still be compatible with this.
+    - Line graph (overall trends??)
+    - Bar graph/side bar graph (absolute numbers)
+    - Calendar display (color in successful days)
+    - Frequency-dot-chart (??)
 
 ## **Feature List: Stretch Goals**
 ### * Extending Habit-tracker:
-    - * (high) Choose habit color
-    - * Sort-by: name, color, manual (allow user to move habits)
-    - * (low) Choose habit frequency (1-7 days per week)
-    - * (low) Option to add description/'question' for habits.
-    - * (low) Option to archive and hide-archive habits.
-    
+- * (high) Choose habit color
+- * Sort-by: name, color, manual (allow user to move habits)
+- * (low) Choose habit frequency (1-7 days per week)
+- * (low) Option to add description/'question' for habits.
+- * (low) Option to archive and hide-archive habits.
+
 ### * Extending Results Display:
-    - * (high/low) Adding addition display types (see above options in MVP). Ideally at least three total (high), max of five (low)
-    - * Change display mode to daily/weekly/monthly/yearly
+- * (high/low) Adding addition display types (see above options in MVP). Ideally at least three total (high), max of five (low)
+- * Change display mode to daily/weekly/monthly/yearly
     
 ### **Full New Feature: Progress Reward System**
  - * User can accumulate reward-points with activity and spend them on a variety of minor rewards (virtual currency).
